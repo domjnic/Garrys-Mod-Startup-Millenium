@@ -1,3 +1,4 @@
 # Garrys-Mod-Startup-Millenium
 This script will open Garry's mod 1k times so you can get the "Startup Millenium" Achievement 
-![code](https://user-images.githubusercontent.com/119600302/219971357-6da98a54-5afc-438c-b2c8-5d48f53d5bff.png)
+
+![code](https://user-images.githubusercontent.com/119600302/219971411-5c15d6d4-50ca-4611-a28a-6876e4d6ad53.png)
