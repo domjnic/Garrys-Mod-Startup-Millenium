@@ -1,7 +1,7 @@
 import os
 import time
 
-total_time = (10 * 1000) / 60 # modify (1000) to the amount of times you need to open
+total_time = (17 * 1000) / 60 # modify (1000) to the amount of times you need to open
 total_hours = total_time // 60
 hours_min = total_time % 60
 
@@ -16,6 +16,6 @@ else:
 
 for i in range(1000): # modify (1000) to the amount of times you need to open
     os.startfile(r"D:\Steam\steamapps\common\GarrysMod\hl2.exe")
-    time.sleep(5)
+    time.sleep(12)
     os.system("taskkill /im hl2.exe /f")
     time.sleep(5)
